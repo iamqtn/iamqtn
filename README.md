@@ -29,13 +29,13 @@
 - 💬 Ping me for collab or questions — I’m friendly.
 
 ### 🌐 Connect
-<a href="https://discordapp.com/users/000000000000000000" target="_blank">
+<a href="[https://discordapp.com/users/487352567106633728]" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white">
 </a>
-<a href="https://t.me/your_telegram_handle" target="_blank">
+<a href="https://t.me/i_amqtn" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white">
 </a>
-<a href="mailto:hello@example.com" target="_blank">
+<a href="mailto:contact@sunvy.fr" target="_blank">
   <img src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335">
 </a>
 <!-- Replace the links above with your real Discord user link (Right‑click your profile > Copy User ID), Telegram and email. -->
