@@ -3,8 +3,9 @@
 
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6EE7F9,100:8B5CF6&text=Hi%20there%20,%20I'm%20Quentin%20(aka%20iamqtn)!%20👋&fontAlign=50&fontSize=32&fontColor=ffffff&desc=Builder%20of%20bots%20%F0%9F%A7%AA%20%7C%20Python%20%26%20Automation%20%F0%9F%96%A5%EF%B8%8F%20%7C%20Always%20learning%20%E2%9C%8C%EF%B8%8F&descAlign=50&descSize=16" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6EE7F9,100:8B5CF6&text=Hi%20there%20,%20I'm%20Quentin%20(aka%20iamqtn)!%20👋&fontAlign=50&fontSize=32&fontColor=ffffff&desc=Builder%20of%20bots%20🧪%20|%20Python%20&%20Automation%20🖥️%20|%20Always%20learning%20✌️&descAlign=50&descSize=16" alt="header">
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=800&center=true&vCenter=true&width=850&size=22&lines=Python%20%F0%9F%90%8D%20%E2%80%A2%20Bots%20Telegram%20%F0%9F%94%97%20%E2%80%A2%20Automation%20%F0%9F%9A%80%20%E2%80%A2%20Raspberry%20Pi%20%F0%9F%90%AB;AI%20agents%2C%20scraping%2C%20data%20pipelines%20%E2%9A%99%EF%B8%8F;Shipping%20pragmatic%20tools%20with%20clean%20docs%20%F0%9F%93%96" alt="typing">
